@@ -8,7 +8,11 @@ Dingo_Conner
 
 
 
-
+Cole_Cod
+Cole_Penguin
+Cole_Leopard
+Cole_Worm
+Cole_Snake
 
 
 
