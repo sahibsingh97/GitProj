@@ -12,6 +12,16 @@ Hyena_Derek
 
 
 
+
+Cole_Cod
+Cole_Penguin
+Cole_Leopard
+Cole_Worm
+Cole_Snake
+
+
+
+
 BullShark_Tristan
 Tiger_Tristan
 Flamingo_Tristan
