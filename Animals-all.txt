@@ -2,9 +2,7 @@ Dingo_Conner
 Halibut_Conner
 Robin_Conner
 Lizard_Conner
-Bees_Conner::
-
-
+Bees_Conner
 
 Tuna_Derek
 Dodo_Derek
@@ -12,17 +10,20 @@ Alligator_Derek
 BulletAnt_Derek
 Hyena_Derek
 
-
-
-
-
 Cole_Cod
 Cole_Penguin
 Cole_Leopard
 Cole_Worm
 Cole_Snake
+
 BullShark_Tristan
 Tiger_Tristan
 Flamingo_Tristan
 GrassHopper_Tristan
 Cobra_Tristan
+
+Ant_Levi
+KiwiBird_Levi
+Bison_Levi
+Salmon_Levi
+Turtle_Levi
