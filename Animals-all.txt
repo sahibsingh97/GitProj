@@ -25,3 +25,4 @@ BullShark_Tristan
 Tiger_Tristan
 Flamingo_Tristan
 GrassHopper_Tristan
+Cobra_Tristan
